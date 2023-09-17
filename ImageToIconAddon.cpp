@@ -18,13 +18,13 @@
  */
 
 
-#include <Application.h>
 #include <Alert.h>
-#include <TrackerAddOn.h>
-#include <TranslationUtils.h>
-#include <Path.h>
+#include <Application.h>
 #include <Bitmap.h>
 #include <NodeInfo.h>
+#include <Path.h>
+#include <TrackerAddOn.h>
+#include <TranslationUtils.h>
 
 
 status_t ConvertToIcon(BEntry* entry);
